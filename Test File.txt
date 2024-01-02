@@ -1,1 +1,6 @@
 This is a git test file
+
+this is a new line
+
+this is a 3rd line	
+
